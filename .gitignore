@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+.vercel
+node_modules/
